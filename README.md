@@ -1,2 +1,2 @@
 # SparkValley
-Minecraft Websocket Server
+Minecraft Websocket Server based on WebsocketSharp
