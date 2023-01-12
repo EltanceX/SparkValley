@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sv", "sv.csproj", "{DD6E7BE2-17B6-40C0-9E7A-2020A816B1D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_Ubuntu|Any CPU = Debug_Ubuntu|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release_Ubuntu|Any CPU = Release_Ubuntu|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD6E7BE2-17B6-40C0-9E7A-2020A816B1D2}.Debug_Ubuntu|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6E7BE2-17B6-40C0-9E7A-2020A816B1D2}.Debug_Ubuntu|Any CPU.Build.0 = Debug|Any CPU
+		{DD6E7BE2-17B6-40C0-9E7A-2020A816B1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6E7BE2-17B6-40C0-9E7A-2020A816B1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6E7BE2-17B6-40C0-9E7A-2020A816B1D2}.Release_Ubuntu|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6E7BE2-17B6-40C0-9E7A-2020A816B1D2}.Release_Ubuntu|Any CPU.Build.0 = Release|Any CPU
+		{DD6E7BE2-17B6-40C0-9E7A-2020A816B1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6E7BE2-17B6-40C0-9E7A-2020A816B1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C093AE9-ADEF-48F1-9C9D-07D87BEE1555}
+	EndGlobalSection
+EndGlobal

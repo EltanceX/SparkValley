@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\sv\bin\Debug\sv.exe.config
+C:\Users\Administrator\source\repos\sv\bin\Debug\sv.exe
+C:\Users\Administrator\source\repos\sv\bin\Debug\sv.pdb
+C:\Users\Administrator\source\repos\sv\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\sv\bin\Debug\websocket-sharp.dll
+C:\Users\Administrator\source\repos\sv\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\sv\obj\Debug\sv.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\sv\obj\Debug\sv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\sv\obj\Debug\sv.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\sv\obj\Debug\sv.csproj.CopyComplete
+C:\Users\Administrator\source\repos\sv\obj\Debug\sv.exe
+C:\Users\Administrator\source\repos\sv\obj\Debug\sv.pdb
+C:\Users\Administrator\source\repos\sv\bin\Debug\websocket-sharp.xml
