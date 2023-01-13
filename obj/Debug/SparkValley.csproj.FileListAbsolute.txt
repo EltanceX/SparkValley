@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\SparkValley\bin\Debug\SparkValley.exe.config
+C:\Users\Administrator\source\repos\SparkValley\bin\Debug\SparkValley.exe
+C:\Users\Administrator\source\repos\SparkValley\bin\Debug\SparkValley.pdb
+C:\Users\Administrator\source\repos\SparkValley\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\SparkValley\bin\Debug\websocket-sharp.dll
+C:\Users\Administrator\source\repos\SparkValley\bin\Debug\websocket-sharp.pdb
+C:\Users\Administrator\source\repos\SparkValley\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\SparkValley\obj\Debug\SparkValley.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\SparkValley\obj\Debug\SparkValley.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\SparkValley\obj\Debug\SparkValley.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SparkValley\obj\Debug\SparkValley.csproj.CopyComplete
+C:\Users\Administrator\source\repos\SparkValley\obj\Debug\SparkValley.exe
+C:\Users\Administrator\source\repos\SparkValley\obj\Debug\SparkValley.pdb
