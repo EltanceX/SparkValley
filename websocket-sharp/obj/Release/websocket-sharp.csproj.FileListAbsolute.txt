@@ -1,0 +1,4 @@
+C:\Users\Administrator\source\repos\websocket-sharp-master\websocket-sharp\bin\Release\websocket-sharp.dll
+C:\Users\Administrator\source\repos\websocket-sharp-master\websocket-sharp\obj\Release\websocket-sharp.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\websocket-sharp-master\websocket-sharp\obj\Release\websocket-sharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\websocket-sharp-master\websocket-sharp\obj\Release\websocket-sharp.dll

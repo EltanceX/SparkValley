@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\websocket-sharp-master\websocket-sharp\bin\Debug\websocket-sharp.dll
+C:\Users\Administrator\source\repos\websocket-sharp-master\websocket-sharp\bin\Debug\websocket-sharp.pdb
+C:\Users\Administrator\source\repos\websocket-sharp-master\websocket-sharp\obj\Debug\websocket-sharp.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\websocket-sharp-master\websocket-sharp\obj\Debug\websocket-sharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\websocket-sharp-master\websocket-sharp\obj\Debug\websocket-sharp.dll
+C:\Users\Administrator\source\repos\websocket-sharp-master\websocket-sharp\obj\Debug\websocket-sharp.pdb
